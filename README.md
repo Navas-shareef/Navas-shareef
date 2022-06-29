@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Navas-shareef
-- 👀 I’m interested in python,web development
-- 🌱 I’m currently learning API
+- 👀 I’m interested in Mobile Application Development
+- 🌱 I’m currently learning flutter testing
 - 💞️ I’m looking to collaborate on innovative projects and startups
 - 📫 How to reach me navasshareef188@gmail.com
 
